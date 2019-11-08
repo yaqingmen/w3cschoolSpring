@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-5.1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.springframework.jdbc-3.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.springframework.transaction-3.1.0.release.jar!/" />
+      <root url="file://$PROJECT_DIR$/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/spring-jdbc-4.3.18.RELEASE-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" />
+  </library>
+</component>
